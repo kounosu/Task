@@ -22,7 +22,7 @@ spring:
           google:
             # client-id: ${CLIENT_ID}
             # client-secret: ${CLIENT_SECRET}
-            client-id: 450100175710-0tf7ud905hkr1kbes669j7ltrfkkbbp4.apps.googleusercontent.com
+            client-id: 450100175710-53j4mdum9c60dm55q81pqk4t1ddl8lkh.apps.googleusercontent.com
             client-secret: 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
             # ↓本番環境(AWS内)ではコメントアウトを外す
             # redirect-uri: http://localhost:8080/login/oauth2/code/google
